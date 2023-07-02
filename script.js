@@ -1,3 +1,4 @@
 function hello(){
-    document.getElementById('but').innerHTML = 'You Press Hello Button';
+    alert("Hello Message, while press button .");
+    
 }
